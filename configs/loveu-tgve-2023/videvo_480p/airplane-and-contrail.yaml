@@ -9,7 +9,8 @@ train_data:
   frame_rate: 1
 validation_data:
   prompts:
-    style: An airplane flies through the blue sky leaving a contrail behind it, sepia toned.
+    style: An airplane flies through the blue sky leaving a contrail behind it, sepia
+      toned.
     object: A helicopter flies through the blue sky leaving a contrail behind it.
     background: An airplane flies over the Taj Mahal leaving a contrail behind it.
     multiple: An airplane flies through the pink sky leaving a contrail behind it,
